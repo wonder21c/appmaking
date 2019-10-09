@@ -9,4 +9,4 @@
 ```
 
 >### 3.디자인과 블록
-https://github.com/wonder21c/appmaking/issues/1
+https://user-images.githubusercontent.com/50861700/66473033-7001c100-eac9-11e9-814d-0ffbce0b39ae.png

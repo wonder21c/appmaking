@@ -9,4 +9,7 @@
 ```
 
 >### 3.디자인과 블록
-img = https://user-images.githubusercontent.com/50861700/66474103-988aba80-eacb-11e9-8ca1-176b067fd2d3.PNG
+
+<div>
+<img width="200" scr ="![bouncedesign](https://user-images.githubusercontent.com/50861700/66474103-988aba80-eacb-11e9-8ca1-176b067fd2d3.PNG)">
+</div>
